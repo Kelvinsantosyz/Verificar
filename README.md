@@ -1,1 +1,4 @@
 # Verificação de nome, senha e CPF com formato válido utilizando Python
+Este código solicita ao usuário que insira seu nome, senha e CPF. Em seguida, há uma função chamada "verificar_cpf_repetido" que recebe o CPF digitado como parâmetro e verifica se há números repetidos. Em seguida, há outra função chamada "validar_dados" que recebe os dados do usuário (nome, senha e CPF) como parâmetros e verifica se cada campo é válido de acordo com determinadas condições.
+
+Por fim, é utilizada a função "validar_dados" para validar os dados inseridos pelo usuário. Se os dados forem válidos, a mensagem "Dados válidos" é impressa na tela. Caso contrário, a mensagem "Dados inválidos" é impressa juntamente com uma descrição do erro encontrado. Se ocorrer um erro inesperado, será impressa a mensagem "Ocorreu erro inesperado, tente novamente".
